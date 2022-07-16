@@ -15,5 +15,5 @@ cp -ru /usr/local/qbittorrent/defaults/Search/*  /config/qBittorrent/data/nova3/
 # permissions
 chown -R abc:abc \
 	/config \
-    /downloads
+    /downloads \
     /incomplete
